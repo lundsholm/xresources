@@ -1,0 +1,2 @@
+# xresources
+.Xresources configuration
